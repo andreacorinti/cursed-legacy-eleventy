@@ -33,6 +33,13 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+  // personaggi
+  eleventyConfig.addCollection("personaggi", function(collection) {
+    return collection.getFilteredByGlob("./posts/personaggi/*").sort(function(a, b) {
+      return a.date - b.date;
+    });
+  });
+
   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
 
   eleventyConfig.addPassthroughCopy("img");

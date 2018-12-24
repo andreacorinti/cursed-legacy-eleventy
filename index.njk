@@ -1,13 +1,201 @@
 ---
 layout: layouts/home.njk
-tags:
-  - nav
 navtitle: Home
 ---
 
-<h1>Latest 3 Posts</h1>
+<h1>Cursed Legacy</h1>
 
-{% set postslist = collections.posts | head(-3) %}
+<p>
+Cursed Legacy racconta la storia di un gruppo di vampiri abbracciati nella San Francisco degli anni '50, della maledizione "ereditata" dai loro Sire e degli eventi legati alla corte del Principe Vannevar, cruciale baluardo della Camarilla negli Stati Uniti occidentali.
+</p>
+
+<img src="img/banner.jpg" alt="San Francisco56">
+
+<p>La cronaca è scritta e narrata da <a href="https://andreacorinti.com" target="blank">Xab</a> ed è liberamente ispirata al romanzo <i><a href="https://www.goodreads.com/book/show/36925.Prince_of_the_City?ac=1&from_search=true" target="blank">Prince of the City</a></i> di Keith Herber.</p>
+
+<p>A livello di regolamento, si basa sulla <a href="https://whitewolf.fandom.com/wiki/Vampire:_The_Masquerade_20th_Anniversary_Edition" target="blank">V20</a> del vecchio <i>Mondo di Tenebra</i>.</p>
+
+<h2>I Protagonisti</h2>
+{% for post in collections.protagonisti %}
+<div class="responsive">
+  <div class="gallery">
+    <a href="{{ post.url | url }}">
+      <img src="/{{ post.data.immagine }}" alt="{{ post.data.title }}" width="600" height="400">
+    </a>
+    <div class="desc">{{ post.data.title }}</div>
+  </div>
+</div>
+{% endfor %}
+
+<div class="clearfix"></div>
+<div style="padding:6px;">
+
+<hr />
+
+<h2>Timeline</h2>
+<div id="timeline">
+	<table>
+		<thead>
+			<tr>
+				<th>Anno</th>
+				<th>Eventi</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>1859</td>
+				<td>A seguito della sempre più rilevante influenza dei Kuei-Jin, il sempre più instabile Delfonso abdica al titolo di Principe in favore del primogeno Tremere: Montelaine</td>
+			</tr>
+			<tr>
+				<td>1877</td>
+				<td>Montelaine cade nella rete cospirativa del suo infante Cyrano, che riesce così a divenire il nuovo Principe di San Francisco.</td>
+			</tr>			
+			<tr>
+				<td>1902</td>
+				<td>Nash, potente gangrel europeo, sfida e sconfigge Yurok assumendo il titolo di capobranco dei Moon Creek. Conseguentemente, Naira e Railsback abbandonano il branco.</td>
+			</tr>
+			<tr>
+				<td>1905</td>
+				<td>Nel dicembre di quest'anno si forma la coterie dei Corvi d'Avorio guidata da Jacques. Ne fanno parte Zeno, Naira, Railsback e Il Diacono.</td>
+			</tr>
+			<tr>
+				<td>1906</td>
+				<td>Terremoto di San Francisco. Numerosi Fratelli periscono, compreso lo stesso Principe Cyrano. Zeno e Naira lasciano la città, Jacques torna in Europa, il Diacono scompare dai radar mentre Railsback supporta la scalata al potere di Vannevar, primogeno ventrue.</td>
+			</tr>
+			<tr>
+				<td>1908</td>
+				<td>La comunità cainita di San Francisco è nel caos: per via delle lotte di potere la città non ha ancora un Principe. Sebastian Melmoth giunge in città e fonda il Vampire Club, divenendo un fondamentale alleato di Vannevar.</td>
+			</tr>
+			<tr>
+				<td>1913</td>
+				<td>Rothstein arriva a San Francisco dove compra il Verdi Club</td>
+			</tr>														
+			<tr>
+				<td>1914</td>
+				<td>Scoppia la Prima Guerra Mondiale, Nasce Otto</td>
+			</tr>
+			<tr>
+				<td>1916</td>
+				<td>Dopo anni di lotte e complotti, Vannevar diviene ufficialmente il Principe di San Francisco. Alcuni vedono nella sua nomina la mano di Karsh, leggendario warlord della Camarilla, altri i misteriosi Kuei-Jin.</td>
+			</tr>
+			<tr>
+				<td>1917</td>
+				<td>Il vampiro Nikolai giunge a San Francisco: convinto zarista, ha abbandonato la Russia a seguito della Rivoluzione. Nel giro dello stesso anno diventerà uno degli uomini più fidati di Vannevar.</td>
+			</tr>												
+			<tr>
+				<td>1920</td>
+				<td>Nasce Paul</td>
+			</tr>
+			<tr>
+				<td>1921</td>
+				<td>Nasce Robert</td>
+			</tr>
+			<tr>
+				<td>1928</td>
+				<td>Nasce Alice</td>
+			</tr>			
+			<tr>
+				<td>1929</td>
+				<td>Grande Depressione Economica</td>
+			</tr>
+			<tr>
+				<td>1932</td>
+				<td>Nasce Maya</td>
+			</tr>
+			<tr>
+				<td>1939</td>
+				<td>Scoppia la Seconda Guerra Mondiale</td>
+			</tr>
+			<tr>
+				<td>1941</td>
+				<td>Gli Stati Uniti entrano in guerra, Paul e Robert vengono arruolati nell'esercito</td>
+			</tr>
+			<tr>
+				<td>1944</td>
+				<td>Zeno e Naira partecipano alla Rivolta Anarchica di Jeremy MacNeil: nasce il Libero Stato di California. Paul e Robert prendono parte allo Sbarco in Normandia.</td>
+			</tr>
+			<tr>
+				<td>1945</td>
+				<td>Paul, tornato dalla guerra, inizia a lavorare come meccanico nell'officina di suo nonno</td>
+			</tr>			
+			<tr>
+				<td>1947</td>
+				<td>Robert è testimone dell'Incidente di Roswell e decide di lasciare l'esercito</td>
+			</tr>
+			<tr>
+				<td>1948</td>
+				<td>Zeno, deluso dal loro <i>Status Perfectus</i>, lascia gli Anarchici</td>
+			</tr>
+			<tr>
+				<td>1951</td>
+				<td>Viene stipulata la Tregua di Fresno tra Camarilla e Anarchici di San Francisco: attorno all'Elixir Pub di Duncan si forma l'enclave anarchico. Zeno ritorna nella Camarilla</td>
+			</tr>									
+			<tr>
+				<td>1952</td>
+				<td>Proclamazione della Repubblica Popolare di Polonia. Otto fugge negli USA</td>
+			</tr>
+			<tr>
+				<td>1953</td>
+				<td>Dwight Eisenhower è eletto trentaquattresimo Presidente degli Stati Uniti d'America.</td>
+			</tr>			
+			<tr>
+				<td>1954</td>
+				<td>Grace Kelly soffia ad Alice il ruolo da protagonista per "Il delitto perfetto", stroncandone di fatto la carriera</td>
+			</tr>							
+			<tr>
+				<td>1955</td>
+				<td>Caso Rosa Parks: Edgar Anderson, il padre di Maya, si reca in Alabama per seguirlo in prima persona.</td>
+			</tr>																			
+		</tbody>
+	</table>
+</div>
+
+<h2>Anni di Gioco</h2>
+<div id="timeline">
+	<table>
+		<thead>
+			<tr>
+				<th>Anno</th>
+				<th>Eventi</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>1956</td>
+				<td>Paul, Robert, Alice, Otto e Maya vengono abbracciati.</td>
+			</tr>
+			<tr>
+				<td>1957</td>
+				<td>In Unione Sovietica si festeggia il Lancio dello Sputnik: è ufficialmente iniziata la corsa spaziale. Dwight Eisenhower inizia il suo secondo mandato. La ventrue Alexandra Cavendish si reca in California, dove forma la Pacific Coast Stock Exchange. Maya guida la spedizione ad Hayden Lake. Alice partecipa al San Francisco Film Festival.</td>
+			</tr>
+      <tr>
+				<td>1958</td>
+				<td>Fondazione della NASA. Peter De Rosa viene affidato alle cure di Glory.</td>
+			</tr>
+      <tr>
+				<td>1959</td>
+				<td>Nelle fogne di San Francisco appaiono nuovi segni di "sacrifici rituali", Maya e Paul indagano senza trovare nulla di nuovo: in Elysium pensano sia opera di Delfonso. Robert ottiene un dominio anarchico attorno a Lake Hughes, dove gestisce il bar di Balalaika.</td>
+			</tr>
+      <tr>
+				<td>1960</td>
+				<td>John F. Kennedy sfida e batte Richard Nixon nelle elezioni americane. Rivoluzione Cubana di Fidel Castro. Il clima della Guerra Fredda va sempre più inasprendosi.</td>
+			</tr>
+      <tr>
+				<td>1961</td>
+				<td>Thomas Rhodes viene abbracciato. Il vecchio gruppo del '56 si riunisce e sconfigge Rothstein. Vannevar rischia di perdere la carica di Principe, ma grazie al decisivo contributo di Alice, Thomas, Sebastian e Nash resta al potere.</td>
+			</tr>
+      <tr>
+				<td>1964</td>
+				<td><p>Mario Savio, studente dell'Università di Berkley, viene arrestato a San Francisco. Sono le prime avvisaglie della Freedom Summer e del Movimento Studentesco: giovani studenti manifestano a favore dei diritti degli afroamericani, contro i bombardamenti nel Vietnam (che anticipano l'intervento diretto USA che avverrà nel '65) e le condizioni lavorative sempre più precarie del ceto proletario.</p>
+		    <p>Vannevar tenta di soffocare le manifestazioni sul nascere, in quanto teme siano eterodirette dagli Anarchici di Los Angeles: questo crea per la prima volta un conflitto con Riley, il suo ghoul più fidato.</p></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<h3>Ultima Sessione</h3>
+
+{% set postslist = collections.posts | head(-1) %}
 {% include "postslist.njk" %}
 
 <p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>

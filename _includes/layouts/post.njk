@@ -4,6 +4,8 @@ templateClass: tmpl-post
 ---
 <h1>{{ title }}</h1>
 
+<img src="/{{ immagine }}" alt="{{ title }}" width="300" height="auto">
+
 {{ content | safe }}
 
 <p><a href="{{ '/' | url }}">← Home</a></p>
