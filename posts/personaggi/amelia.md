@@ -3,7 +3,7 @@ title: Amelia
 date: 2018-05-01
 immagine: img/amelia.jpg
 tags:
-  - protagonisti
+  - camarilla
   - nosferatu
 layout: layouts/post.njk
 ---
