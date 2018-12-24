@@ -32,6 +32,13 @@ Cursed Legacy racconta la storia di un gruppo di vampiri abbracciati nella San F
 
 <hr />
 
+<h3>Ultima Sessione</h3>
+
+{% set postslist = collections.posts | head(-1) %}
+{% include "postslist.njk" %}
+
+<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+
 <h2>Timeline</h2>
 <div id="timeline">
 	<table>
@@ -162,7 +169,35 @@ Cursed Legacy racconta la storia di un gruppo di vampiri abbracciati nella San F
 		<tbody>
 			<tr>
 				<td>1956</td>
-				<td>Paul, Robert, Alice, Otto e Maya vengono abbracciati.</td>
+				<td>
+				<h3>3 Gennaio</h3>
+				<p>Paul è alla ricerca del fratello Peter, quando viene abbracciato da Zeno. Per volere di quest'ultimo, uccide suo nonno Paolo Barbieri durante la fase di trasformazione. Accetta di seguire Zeno pur di rintracciare suo fratello</p>
+				<h3>30 Gennaio</h3>
+				<p>Viene scagliata una bomba nella casa di Martin Luther King: Edgar, il padre di Maya, si offre di ospitare il famoso attivista nella sua residenza di Montgomery, in Alabama</p>
+				<h3>2 Febbraio</h3>
+				<p>Robert indaga nel <i>Marshall Space Flight Center</i> di Huntsville, in Alabama, dove viene provocato e abbracciato dalla misteriosa Naira, che lo lascia al suo destino. Dopo che Zeno lo soccorre, inizia a viaggiare assieme a lui e Paul.</p>
+				<h3>19 Aprile</h3>
+				<p>Alice è tra gli invitati del sontuoso matrimonio di Grace Kelly. Durante la crociera attira l'attenzione del fotografo Jacques Chevalier, irritando una delle sue "fan" rischiando di rimetterci un occhio. Jacques l'abbraccia dopo averla fotografata a terra esangue, in un impeto di perverso sadismo estetico.</p>
+				<h3>20 Aprile</h3>
+				<p>Otto incontra uno strano collega durante una giornata di lavoro alla Bechtel, e un ancor più strano prete. In seguito tenta un furto alla Villa dei Winchester assieme ai connazionali Dimitri WoŹniak e Ivan Kaczmarek. Tornato a casa, viene abbracciato dal prete sopracitato (Il Diacono) e costretto a cibarsi della piccola Martha. </p>
+				<p>[SESSIONI]</p>
+				<h3>Luglio</h3>
+				<p>Peter viene ricoverato in un reparto del St Mary "controllato" dalla Camarilla: in Elysium hanno immediatamente compreso la sua condizione di ghoul e le conseguenze dell'astinenza da sangue vampirico, ma il prolungato periodo trascorso ad Alcatraz sembra averlo debilitato parecchio psicologicamente. [Modalità Cloud sulla Sedia]. Prevedibilmente, ne Paul ne Maya sono ancora riusciti a cavar fuori qualcosa da lui</p>
+				<p>Zeno scompare dalla circolazione: Tequila, Robert e Alice riescono a trovare il Camion la notte seguente, ma del brujah nessuna traccia. I tre riprendono il viaggio verso Los Angeles per conferire con membri delle alte sfere anarchiche sul da farsi</p>
+				<p>Honerius, Paul e altri vampiri si recano ad Alcatraz dove si ricongiungono con lo Sceriffo Railsback: del Diacono, Amelia o Otto sembra non esserci più traccia, nonostante il gruppo prosegua le ricerche per diverse notti.</p>
+				<p>A seguito della scoparsa di Otto, Glory perde l'uso della voce.</p>
+				<h3>Agosto</h3>
+				<p>Paul viene nominato Frusta dello Sceriffo e "custode" di Alcatraz, sebbene ufficialmente il Dominio resti nelle mani della dispersa Amelia. La faccenda renderà il Brujah particolarmente antipatico ai Nosferatu della città.</p>
+				<p>Maya e Riley iniziano a collaborare abbastanza spesso: lui racconta quanto è riuscito a scoprire dei movimenti del Sabbat nell'Idaho, mentre Maya svolge qualche indagine per conto del Principe. In Elysium la brujah resta estremamente malvista da Nikolai e Railsback e, sebbene i rapporti con il "fratello" Paul risultino un minimo più cordiali, restano fondamentalmente freddi.</p>
+				<p>Paul rivela a Luke del vampirismo, del suo essere ghoul, e delle condizioni di Peter, scusandosi per averlo fatto a sua insaputa e specificando che la sua condizione è "temporanea". Allo stesso modo, parla anche di Alice e della sua natura cainita mettendolo in guardia facendo leva sul benessere di suo figlio</p>  
+				<p>Nonostante gli avvertimenti di Paul, Luke cerca inutilmente di trovare Alice sfruttando i suoi contatti.</p>
+				<p>Paul e Maya vengono a scoprire da alcune voci circolanti nell'Elysium del "tradimento" di Robert e Alice, passati tra le fila degli anarchici (la faccenda Zeno, tuttavia, resta ignota)</p>
+				<p>Robert, con il beneplacito degli Anarchici e "garantito" da una lettera di Duncan, parte alla ricerca di Naira e Zeno.</p>
+				<p>Alice viene "adottata" da Isaac Abrams, un Toreador Anarchico molto influente legato all'industria Hollywoodiana</p>
+				<p>Paul tenta in ogni modo di contattare Sarah, ma da Chicago nessuno (nemmeno la famiglia di lei) sembra avere sue notizie. Grazie a Luke il brujah riesce a tranquillizzare i genitori, spiegandogli anche delle condizioni di Peter a seguito del suo ritrovamento e della sua decisione di trasferirsi permamentemente a San Francisco</p>
+				<h3>Ottobre</h3>
+				<p>Scoppia il secondo conflitto arabo-israeliano. Paul viene a sapere da suo padre che, da quanto trapela dal ghetto ebraico di Chicago, suo figlio è nato il 2 Settembre ed il suo nome è Raphael.</p>
+				</td>
 			</tr>
 			<tr>
 				<td>1957</td>
@@ -192,10 +227,3 @@ Cursed Legacy racconta la storia di un gruppo di vampiri abbracciati nella San F
 		</tbody>
 	</table>
 </div>
-
-<h3>Ultima Sessione</h3>
-
-{% set postslist = collections.posts | head(-1) %}
-{% include "postslist.njk" %}
-
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
