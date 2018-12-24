@@ -4,11 +4,11 @@ templateClass: tmpl-post
 ---
 <h1>{{ title }}</h1>
 
-<img src="/{{ immagine }}" alt="{{ title }}" width="300" height="auto">
-
-{{ content | safe }}
-
-<p><a href="{{ '/' | url }}">← Home</a></p>
+{% if immagine %}
+<div>
+<img src="/{{ immagine }}" alt="{{ title }}" width="250" height="auto">
+</div>
+{% endif %}
 
 {% for tag in tags %}
       {%- if tag != "post" -%}
@@ -16,3 +16,7 @@ templateClass: tmpl-post
       <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
       {%- endif -%}
 {% endfor %}
+
+{{ content | safe }}
+
+<p><a href="{{ '/' | url }}">← Home</a></p>

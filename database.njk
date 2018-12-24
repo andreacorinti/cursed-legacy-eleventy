@@ -1,0 +1,12 @@
+---
+layout: layouts/home.njk
+tags:
+  - nav
+navtitle: Database
+permalink: /database/
+date: 1956-01-01
+---
+<h1>Database</h1>
+
+{% set postslist = collections.database %}
+{% include "postslist-nodate.njk" %}
