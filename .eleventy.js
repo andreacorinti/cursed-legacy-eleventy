@@ -35,16 +35,12 @@ module.exports = function(eleventyConfig) {
 
   // personaggi
   eleventyConfig.addCollection("personaggi", function(collection) {
-    return collection.getFilteredByGlob("./personaggi/*").sort(function(a, b) {
-      return a.date - b.date;
-    });
+    return collection.getFilteredByGlob("./personaggi/*")
   });
   
   // database
   eleventyConfig.addCollection("database", function(collection) {
-    return collection.getFilteredByGlob("./database/*").sort(function(a, b) {
-      return a.date - b.date;
-    });
+    return collection.getFilteredByGlob("./database/*")
   });
 
   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));

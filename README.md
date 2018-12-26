@@ -1,4 +1,11 @@
-# eleventy-base-blog
+# Cursed Legacy
+
+## To do 
+
+- [] Responsive image per l'home page
+- [] Rivedere le mappe / iframe
+
+## eleventy-base-blog
 
 A starter repository showing how to build a blog with the [Eleventy](https://github.com/11ty/eleventy) static site generator.
 

@@ -5,6 +5,7 @@ immagine: img/robert.jpg
 tags:
   - protagonisti
   - gangrel
+  - anarchici
 layout: layouts/post.njk
 ---
 

@@ -5,6 +5,7 @@ immagine: img/maya.jpg
 tags:
   - protagonisti
   - brujah
+  - camarilla
 layout: layouts/post.njk
 ---
 
@@ -92,6 +93,9 @@ In vita lavorò come infermiera del St. Mary's Hospital di San Francisco, ed è 
   </tr>                          
 </table>
 
+<h2>Ghoul</h2>
+
+* Joe Masseria
 
 <h2>Legami di Sangue inferti</h2>
 

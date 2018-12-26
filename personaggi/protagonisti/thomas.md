@@ -5,6 +5,7 @@ immagine: img/thomas-rhodes.jpg
 tags:
   - protagonisti
   - ventrue
+  - camarilla
 layout: layouts/post.njk
 ---
 

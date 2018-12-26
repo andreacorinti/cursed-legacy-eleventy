@@ -5,6 +5,7 @@ immagine: img/alice.jpg
 tags:
   - protagonisti
   - toreador
+  - camarilla
 layout: layouts/post.njk
 ---
 

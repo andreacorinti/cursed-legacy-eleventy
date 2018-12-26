@@ -17,5 +17,3 @@ Bolin era infatti inconsapevolmente legato al Sabbat dell'Idaho (tramite l'Aryan
 Verrà ucciso da Maya Anderson nel 1956 durante il suo abbraccio.
 
 Peter De Rosa era una delle sue guardie del corpo.
-
-<a href="http://xabacadabra.com/cursed-legacy/png-mortali.html" class="button back">PNG Mortali</a> 

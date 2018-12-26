@@ -5,6 +5,7 @@ immagine: img/paul.jpg
 tags:
   - protagonisti
   - brujah
+  - camarilla
 layout: layouts/post.njk
 ---
 

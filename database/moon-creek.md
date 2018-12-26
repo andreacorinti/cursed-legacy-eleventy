@@ -4,6 +4,7 @@ date: 1956-01-01
 tags:
   - coterie
   - gangrel
+  - camarilla
 layout: layouts/post.njk
 ---
 

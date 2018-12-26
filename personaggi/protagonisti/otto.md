@@ -5,6 +5,7 @@ immagine: img/otto.jpg
 tags:
   - protagonisti
   - malkavian
+  - camarilla
 layout: layouts/post.njk
 ---
 

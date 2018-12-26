@@ -9,72 +9,7 @@ date: 1956-01-01
 
 <h1>Personaggi</h1>
 
-<h2>Camarilla</h2>
-{% for post in collections.camarilla %}
-<div class="responsive">
-  <div class="gallery">
-    <a href="{{ post.url | url }}">
-      <img src="/{{ post.data.immagine }}" alt="{{ post.data.title }}" width="600" height="400">
-    </a>
-    <div class="desc">{{ post.data.title }}</div>
-  </div>
-</div>
-{% endfor %}
-
-<div class="clearfix"></div>
-<div style="padding:6px;">
-<hr />
-
-<h2>Anarchici</h2>
-{% for post in collections.anarchici %}
-<div class="responsive">
-  <div class="gallery">
-    <a href="{{ post.url | url }}">
-      <img src="/{{ post.data.immagine }}" alt="{{ post.data.title }}" width="600" height="400">
-    </a>
-    <div class="desc">{{ post.data.title }}</div>
-  </div>
-</div>
-{% endfor %}
-
-<div class="clearfix"></div>
-<div style="padding:6px;">
-<hr />
-
-<h2>Sabbat</h2>
-{% for post in collections.sabbat %}
-<div class="responsive">
-  <div class="gallery">
-    <a href="{{ post.url | url }}">
-      <img src="/{{ post.data.immagine }}" alt="{{ post.data.title }}" width="600" height="400">
-    </a>
-    <div class="desc">{{ post.data.title }}</div>
-  </div>
-</div>
-{% endfor %}
-
-<div class="clearfix"></div>
-<div style="padding:6px;">
-<hr />
-
-<h2>Indipendenti</h2>
-{% for post in collections.indipendenti %}
-<div class="responsive">
-  <div class="gallery">
-    <a href="{{ post.url | url }}">
-      <img src="/{{ post.data.immagine }}" alt="{{ post.data.title }}" width="600" height="400">
-    </a>
-    <div class="desc">{{ post.data.title }}</div>
-  </div>
-</div>
-{% endfor %}
-
-<div class="clearfix"></div>
-<div style="padding:6px;">
-<hr />
-
-<h2>Mortali</h2>
-{% for post in collections.mortali %}
+{% for post in collections.personaggi %}
 <div class="responsive">
   <div class="gallery">
     <a href="{{ post.url | url }}">

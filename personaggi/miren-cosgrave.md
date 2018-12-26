@@ -29,5 +29,3 @@ Nel 1961 si schiera a favore di Honerius e, in seguito alla "rielezione" di Vann
 Sentendosi tradita dagli intrighi dei Ventrue, incapace di riconoscere i propri limiti politico-amministrativi (resi palesi con l'assalto di Fresno), Miren odia a morte tutti gli esponenti del clan della città, soprattutto Vannevar e Thomas Rhodes.
 
 Per motivi analoghi disprezza anche i toreador (specie Alice), ma mantiene un certo timore reverenziale per Sebastian.
-
-<a href="http://xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>

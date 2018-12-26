@@ -3,6 +3,7 @@ title: Corvi d'Avorio
 date: 1956-01-01
 tags:
   - coterie
+  - camarilla
 layout: layouts/post.njk
 ---
 
