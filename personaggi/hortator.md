@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-Nata attorno al dodicesimo secolo nella leggendaria città azteca di Aztlán con il nome di Tlazolteotl, Hortator partecipò alla fondazione di Tenochtitlàn (odierna Città del Messico) seguendo suo malgrado la tirannica guida del vampiro [Huitzilopochtli](https://it.wikipedia.org/wiki/Huitzilopochtli), considerato dalla civiltà precolombiana incarnazione divina della Guerra.
+Nata attorno al dodicesimo secolo nella leggendaria città azteca di Aztlán con il nome di Tlazolteotl, Hortator partecipò alla fondazione di Tenochtitlàn (odierna Città del Messico) seguendo suo malgrado la tirannica guida del vampiro [Huitzilopochtli](/database/huitzilopochtli), considerato dalla civiltà precolombiana incarnazione divina della Guerra.
 
 Allo stesso modo, la lussuriosa, ambigua ma certo più magnanima Hortator, infante di [Camazotz](https://it.wikipedia.org/wiki/Camazotz) (che a sua volta fu probabilmente reso vampiro dallo stesso Huitzilopochtli) venne identificata come dea della fertilità e della sessualità da parte degli Aztechi: la figura mitologica di [Tlazolteotl](https://it.wikipedia.org/wiki/Tlazolteotl) deriva infatti da lei.
 

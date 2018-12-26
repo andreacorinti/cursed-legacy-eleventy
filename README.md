@@ -4,8 +4,9 @@
 
 - [] Responsive image per l'home page
 - [] Rivedere le mappe / iframe
-- [] Footer
-- [] aggiungere le varie giocate
+- [] link interni
+- [x] Footer
+- [x] aggiungere le varie giocate
 
 ## eleventy-base-blog
 
