@@ -17,4 +17,4 @@ Dopo la morte di Sauriel, un devastante terremoto distrusse San Francisco e ucci
 
 I Corvi sopravvissero grazie all'influenza dello stesso Moloch, che li "marchiò" con il suo sigillo, maledendoli eseguendo le ultime volontà di Sauriel.
 
-Nel 1956, esattamente mezzosecolo dopo il cataclisma, quattro dei cinque Corvi d'Avorio abbracceranno degli [infanti](/).
+Nel 1956, esattamente mezzosecolo dopo il cataclisma, quattro dei cinque Corvi d'Avorio abbracceranno degli [infanti](/tags/protagonisti/).

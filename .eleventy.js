@@ -27,8 +27,8 @@ module.exports = function(eleventyConfig) {
   });
 
   // only content in the `posts/` directory
-  eleventyConfig.addCollection("posts", function(collection) {
-    return collection.getFilteredByGlob("./posts/*").sort(function(a, b) {
+  eleventyConfig.addCollection("diario", function(collection) {
+    return collection.getFilteredByGlob("./diario/*").sort(function(a, b) {
       return a.date - b.date;
     });
   });

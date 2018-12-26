@@ -319,7 +319,7 @@ a[href].direct-link:focus:visited,
 }
 
 #timeline tr:hover {
-  background-color: var(--rosso3);
+  background-color: black;
 }
 
 #timeline th {
