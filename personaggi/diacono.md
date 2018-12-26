@@ -17,5 +17,3 @@ Dopo il terremoto del 1906 il mite vampiro che era stato Il Diacono trasfigurò 
 Nel 1956 è stato visto per l'ultima volta, quando da solo ha assaltato Alcatraz, il dominio di Amelia (primogena Nosferatu di San Francisco) per poi sostituirsi a lei grazie alla propria maestria in Oscurazione.
 
 A quanto ci è dato sapere, Otto Kozminski è l'unico infante del Diacono.
-
-<a href="http://xabacadabra.com/cursed-legacy/png-indipendenti.html" class="button back">PNG Indipendenti</a>

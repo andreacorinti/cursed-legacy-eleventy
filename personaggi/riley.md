@@ -18,4 +18,4 @@ Essendo un afroamericano con diversi decenni sulle spalle, Riley ha sviluppato u
 
 Anche per questi motivi, sviluppa immediatamente una certa simpatia per Maya.
 
-<a href="http://xabacadabra.com/cursed-legacy/png-mortali.html" class="button back">PNG Mortali</a> 
+png-mortali.html" class="button back">PNG Mortali</a> 

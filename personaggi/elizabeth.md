@@ -13,4 +13,4 @@ Rapita dall'Aryan Nations nel 1956 (intenzionata a ricattarne il marito), sembra
 
 Ad oggi la sua posizione resta ignota e ritrovarla risulta sempre in cima ai pensieri di Maya.
 
-<a href="http://xabacadabra.com/cursed-legacy/png-mortali.html" class="button back">PNG Mortali</a> 
+png-mortali.html" class="button back">PNG Mortali</a> 

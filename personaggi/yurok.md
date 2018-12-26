@@ -18,4 +18,4 @@ Fondatore originale dei Moon Creek, è stato sconfitto in combattimento da Nash 
 
 A quanto si dice, in vita fu il Gran Capo della tribù Tolowa, fino a quando non venne abbracciato da un gangrel europeo durante la conquista del west.
 
-<a href="http://xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>
+png-camarilla.html" class="button back">PNG Camarilla</a>

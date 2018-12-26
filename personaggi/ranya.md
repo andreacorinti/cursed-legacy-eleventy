@@ -16,4 +16,4 @@ Abile affarista, è nota per essere meticolosa, avida e spietata: apprezza chi r
 
 Anche per questo, è sempre stata in rapporti piuttosto cordiali con la Camarilla di Las Vegas...almeno fino a quando le forze Giovanni non hanno finito per fagocitarla: da quel momento Ranya non sembra essersi fatta troppi problemi a salire sul carro del vincitore Rothstein.  
 
-<a href="http://xabacadabra.com/cursed-legacy/png-indipendenti.html" class="button back">PNG Indipendenti</a> 
+png-indipendenti.html" class="button back">PNG Indipendenti</a> 

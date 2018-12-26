@@ -19,5 +19,3 @@ Anche per questo tra gli Anarchici più estremisti Duncan è spesso malvisto o e
 Duncan è legato ai precursori del movimento hippie, che ispirerà direttamente, e sembra essere in affari col primogeno toreador Sebastian Melmoth.
 
 L'artista Jess Collins è un suo ghoul.
-
-<a href="http://xabacadabra.com/cursed-legacy/png-anarchici.html" class="button back">PNG Anarchici</a>

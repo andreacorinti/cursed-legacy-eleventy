@@ -26,4 +26,4 @@ Era celebre per mantenere sempre la sua parola, sebbene generalmente questo impl
 
 Il suo quartier generale era il celebre casinò Flamingo, ma in generale possedeva molti altri casinò e rifugi nella strip di Las Vegas.
 
-<a href="http://xabacadabra.com/cursed-legacy/png-indipendenti.html" class="button back">PNG Indipendenti</a>
+png-indipendenti.html" class="button back">PNG Indipendenti</a>

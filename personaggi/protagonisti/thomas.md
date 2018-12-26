@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-Infante di [Alexandra Cavendish](http://xabacadabra.com/cursed-legacy/pg/nikolai) da poco giunto a San Francisco, in città di lui si sa solo che è un Ventrue proveniente da Washington.
+Infante di Alexandra Cavendish da poco giunto a San Francisco, in città di lui si sa solo che è un Ventrue proveniente da Washington.
 
 Appare come un uomo elegante, dai modi raffinati e galanti, capace di attirare l'attenzione di chi desidera. Ha una grandissima passione per le barche (che condivideva con suo padre) e la lettura. 
 

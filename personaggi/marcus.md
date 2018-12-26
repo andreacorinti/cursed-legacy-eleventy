@@ -14,4 +14,4 @@ Entrato nelle grazie del Principe Marissa nella seconda metà degli anni '50, è
 
 Ambizioso e potente, in molti individuano in lui il possibile futuro della camarilla americana.
 
-<a href="http://xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>   
+png-camarilla.html" class="button back">PNG Camarilla</a>   

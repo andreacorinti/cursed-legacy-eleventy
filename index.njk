@@ -15,6 +15,11 @@ Cursed Legacy racconta la storia di un gruppo di vampiri abbracciati nella San F
 
 <p>A livello di regolamento, si basa sulla <a href="https://whitewolf.fandom.com/wiki/Vampire:_The_Masquerade_20th_Anniversary_Edition" target="blank">V20</a> del vecchio <i>Mondo di Tenebra</i>.</p>
 
+<h3>Ultima Sessione</h3>
+
+{% set postslist = collections.diario | head(-1) %}
+{% include "postslist.njk" %}
+
 <h2>I Protagonisti</h2>
 {% for post in collections.protagonisti %}
 <div class="responsive">
@@ -31,13 +36,6 @@ Cursed Legacy racconta la storia di un gruppo di vampiri abbracciati nella San F
 <div style="padding:6px;">
 
 <hr />
-
-<h3>Ultima Sessione</h3>
-
-{% set postslist = collections.diario | head(-1) %}
-{% include "postslist.njk" %}
-
-<p>More posts can be found in <a href="{{ '/diario/' | url }}">the archive</a>.</p>
 
 <h2>Timeline</h2>
 <div id="timeline">
@@ -177,28 +175,33 @@ Cursed Legacy racconta la storia di un gruppo di vampiri abbracciati nella San F
 			</tr>
 			<tr>
 				<td>1957</td>
-				<td>In Unione Sovietica si festeggia il Lancio dello Sputnik: è ufficialmente iniziata la corsa spaziale. Dwight Eisenhower inizia il suo secondo mandato. La ventrue Alexandra Cavendish si reca in California, dove forma la Pacific Coast Stock Exchange. Maya guida la spedizione ad Hayden Lake. Alice partecipa al San Francisco Film Festival.</td>
+				<td>{% for post in collections.cinquantasette %}
+				<a href="{{ post.url }}" class="tag">{{ post.data.title }}</a>
+				{% endfor %}</td>
 			</tr>
       <tr>
 				<td>1958</td>
-				<td>Fondazione della NASA. Peter De Rosa viene affidato alle cure di Glory.</td>
+				<td>{% for post in collections.cinquantotto %}
+				<a href="{{ post.url }}" class="tag">{{ post.data.title }}</a>
+				{% endfor %}</td>
 			</tr>
       <tr>
 				<td>1959</td>
-				<td>Nelle fogne di San Francisco appaiono nuovi segni di "sacrifici rituali", Maya e Paul indagano senza trovare nulla di nuovo: in Elysium pensano sia opera di Delfonso. Robert ottiene un dominio anarchico attorno a Lake Hughes, dove gestisce il bar di Balalaika.</td>
+				<td>{% for post in collections.cinquantanove %}
+				<a href="{{ post.url }}" class="tag">{{ post.data.title }}</a>
+				{% endfor %}</td>
 			</tr>
       <tr>
 				<td>1960</td>
-				<td>John F. Kennedy sfida e batte Richard Nixon nelle elezioni americane. Rivoluzione Cubana di Fidel Castro. Il clima della Guerra Fredda va sempre più inasprendosi.</td>
+				<td>{% for post in collections.sessanta %}
+				<a href="{{ post.url }}" class="tag">{{ post.data.title }}</a>
+				{% endfor %}</td>
 			</tr>
       <tr>
 				<td>1961</td>
-				<td>Thomas Rhodes viene abbracciato. Il vecchio gruppo del '56 si riunisce e sconfigge Rothstein. Vannevar rischia di perdere la carica di Principe, ma grazie al decisivo contributo di Alice, Thomas, Sebastian e Nash resta al potere.</td>
-			</tr>
-      <tr>
-				<td>1964</td>
-				<td><p>Mario Savio, studente dell'Università di Berkley, viene arrestato a San Francisco. Sono le prime avvisaglie della Freedom Summer e del Movimento Studentesco: giovani studenti manifestano a favore dei diritti degli afroamericani, contro i bombardamenti nel Vietnam (che anticipano l'intervento diretto USA che avverrà nel '65) e le condizioni lavorative sempre più precarie del ceto proletario.</p>
-		    <p>Vannevar tenta di soffocare le manifestazioni sul nascere, in quanto teme siano eterodirette dagli Anarchici di Los Angeles: questo crea per la prima volta un conflitto con Riley, il suo ghoul più fidato.</p></td>
+				<td>{% for post in collections.sessantuno %}
+				<a href="{{ post.url }}" class="tag">{{ post.data.title }}</a>
+				{% endfor %}</td>
 			</tr>
 		</tbody>
 	</table>

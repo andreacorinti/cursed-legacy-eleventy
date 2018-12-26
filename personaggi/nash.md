@@ -12,4 +12,4 @@ Primogeno gangrel dell'area di San Francisco e capobranco dei Moon Creek, contro
 
 Aggressivo e spietato, odia profondamente Yurok e conseguentemente i suoi discendenti nel sangue Railsback, Naira e Robert.
 
-<a href="http://xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>
+png-camarilla.html" class="button back">PNG Camarilla</a>

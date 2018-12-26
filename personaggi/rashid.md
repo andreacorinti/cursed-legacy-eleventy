@@ -20,4 +20,4 @@ Da allora è un sicario al soldo del miglior offerente: praticamente chiunque si
 Giunto negli Stati Uniti nella metà degli anni '50 alla ricerca di potere e prestigio in modo da guadagnare rispetto tra gli altri Assamiti, da allora ha collaborato prevalentemente con i membri americani del clan Giovanni. 
 
 
-<a href="http://xabacadabra.com/cursed-legacy/png-indipendenti.html" class="button back">PNG Indipendenti</a> 
+png-indipendenti.html" class="button back">PNG Indipendenti</a> 

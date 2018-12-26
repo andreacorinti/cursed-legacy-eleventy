@@ -57,7 +57,7 @@ module.exports = function(eleventyConfig) {
     linkify: true
   };
   let opts = {
-    permalink: true,
+    permalink: false,
     permalinkClass: "direct-link",
     permalinkSymbol: "#"
   };

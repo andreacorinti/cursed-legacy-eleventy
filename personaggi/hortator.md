@@ -18,4 +18,4 @@ Con le sue azioni in ausilio degli spagnoli, Hortator di fatto contribuì a cond
 
 Pochi anni dopo la caduta di Tenochtitlán, Hortator abbracciò l'esploratore tedesco Nikolaus Federmann (più tardi noto con il nome di Sauriel) incaricandolo di trovare Moloch e risposte riguardo il loro sangue oltre l'Atlantico, più precisamente tra le rovine di Cartagine.
 
-<a href="http://xabacadabra.com/cursed-legacy/png-indipendenti.html" class="button back">PNG Indipendenti</a>
+png-indipendenti.html" class="button back">PNG Indipendenti</a>

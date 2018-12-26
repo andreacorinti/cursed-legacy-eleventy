@@ -28,4 +28,4 @@ Grazie all'intervento di Paul e la fatidica, nefasta presenza del Diacono che me
 
 Tuttavia la prigionia, unita alla prolungata astinenza da sangue e ai vari eventi shockanti di cui è stato partecipe hanno debilitato la psiche di Peter, che per questo oggi vive dietro la tutela di Glory, primogena malkavian.
 
-<a href="http://xabacadabra.com/cursed-legacy/png-mortali.html" class="button back">PNG Mortali</a> 
+png-mortali.html" class="button back">PNG Mortali</a> 

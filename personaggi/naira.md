@@ -26,4 +26,4 @@ Railsback, Sceriffo di San Francisco, è suo fratello nel sangue.
 
 A quanto è dato sapere, Robert Morgan è il suo unico infante.
 
-<a href="http://xabacadabra.com/cursed-legacy/png-indipendenti.html" class="button back">PNG Indipendenti</a>
+png-indipendenti.html" class="button back">PNG Indipendenti</a>

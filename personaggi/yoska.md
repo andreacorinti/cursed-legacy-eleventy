@@ -22,4 +22,4 @@ Yoska si scontrò ferocemente con i nuovi arrivati, che finirono per stipulare c
 
 Dal canto suo, negli ultimi anni Yoska è riuscito a mantenersi estraneo ad ogni conflitto, garantendosi il monopolio sulle corse dei cavalli e il controllo dell'area orientale della città, oltre che diversi contatti con l'intero ceto proletario del Nevada.  
 
-<a href="http://xabacadabra.com/cursed-legacy/png-indipendenti.html" class="button back">PNG Indipendenti</a> 
+png-indipendenti.html" class="button back">PNG Indipendenti</a> 

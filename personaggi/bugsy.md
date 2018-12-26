@@ -15,5 +15,3 @@ Originariamente un ghoul del potente giovanni Rothstein, nel 1947 verrà da lui 
 Sbruffone, vanesio e senza scrupoli, ha ucciso e reso zombie la povera Jenna, amica di Maya e per breve tempo amante di Peter De Rosa, suo vero bersaglio.
 
 Catturato dall'azione congiunta di Paul, Maya e Robert, verrà ucciso proprio da quest'ultimo.
-
-<a href="http://xabacadabra.com/cursed-legacy/png-indipendenti.html" class="button back">PNG Indipendenti</a>

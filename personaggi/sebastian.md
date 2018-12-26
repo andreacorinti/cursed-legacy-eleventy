@@ -20,4 +20,4 @@ Sebastian è infatti in rapporti piuttosto cordiali con diversi toreador passati
 
 In effetti, l'unica ostilità palese di cui si ha notizia l'ha avuta con Amelia, primogena Nosferatu dispersa dal 1956. 
 
-<a href="http://xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>
+png-camarilla.html" class="button back">PNG Camarilla</a>

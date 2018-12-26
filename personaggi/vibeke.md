@@ -18,4 +18,4 @@ Mentalmente è rimasta una donna ottocentesca.
 
 Vive in una Villa vittoriana di proprietà di Nikolai nel quartiere di Panhandle.
 
-<a href="http://xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>
+png-camarilla.html" class="button back">PNG Camarilla</a>

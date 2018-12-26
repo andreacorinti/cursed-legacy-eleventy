@@ -30,4 +30,4 @@ Dopo la disfatta politica di Miren (sostenitrice di Honerius e responsabile dell
 
 Poco incline al comando e alla sedentarietà, Zeno delegherà la gestione di Fresno all'infante Paul.
 
-<a href="http://xabacadabra.com/cursed-legacy/png-camarilla.html" class="button back">PNG Camarilla</a>
+png-camarilla.html" class="button back">PNG Camarilla</a>

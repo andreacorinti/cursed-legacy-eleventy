@@ -14,4 +14,4 @@ Dal 1954 è sposato con Cayetana Mendez, da cui nello stesso anno ha avuto il fi
 
 Dall'agosto del '56 è un ghoul del fratello Paul.   
 
-<a href="http://xabacadabra.com/cursed-legacy/png-mortali.html" class="button back">PNG Mortali</a> 
+png-mortali.html" class="button back">PNG Mortali</a> 

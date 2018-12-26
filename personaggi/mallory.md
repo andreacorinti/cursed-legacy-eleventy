@@ -17,5 +17,3 @@ Nel 1944 era tra i cainiti che parteciparono alla rivolta di Jeremy MacNeil, e n
 In termini mortali, è una fervente sostenitrice della politica di Malcolm X.
 
 Nel Gennaio 1961, a seguito della sua comprovata collaborazione con Rothstein (testimoniata da Thomas, Lucinda e Robert) la Camarilla l'ha resa bersaglio di una caccia di sangue istituita dal Siniscalco Nikolai.  
-
-<a href="http://xabacadabra.com/cursed-legacy/png-anarchici.html" class="button back">PNG Anarchici</a>

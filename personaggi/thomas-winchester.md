@@ -15,4 +15,4 @@ Fino al 1956 è stato il primario e direttore del St Mary Hospital di San Franci
 
 In realtà i suoi ricordi sono stati manipolati dalla Camarilla, che lo utilizza come spia inconsapevole nel cuore del territorio anarchico.
 
-<a href="http://xabacadabra.com/cursed-legacy/png-mortali.html" class="button back">PNG Mortali</a> 
+png-mortali.html" class="button back">PNG Mortali</a> 
