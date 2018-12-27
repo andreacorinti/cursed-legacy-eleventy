@@ -18,4 +18,3 @@ Essendo un afroamericano con diversi decenni sulle spalle, Riley ha sviluppato u
 
 Anche per questi motivi, sviluppa immediatamente una certa simpatia per Maya.
 
-png-mortali.html" class="button back">PNG Mortali</a> 

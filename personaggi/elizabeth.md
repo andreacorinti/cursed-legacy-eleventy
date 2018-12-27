@@ -13,4 +13,3 @@ Rapita dall'Aryan Nations nel 1956 (intenzionata a ricattarne il marito), sembra
 
 Ad oggi la sua posizione resta ignota e ritrovarla risulta sempre in cima ai pensieri di Maya.
 
-png-mortali.html" class="button back">PNG Mortali</a> 

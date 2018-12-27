@@ -29,5 +29,3 @@ Scomparso nel '56 a seguito del tradimento di Robert Morgan, tornerà a San Fran
 Dopo la disfatta politica di Miren (sostenitrice di Honerius e responsabile della caduta di Fresno) verrà chiamato da Vannevar a sostiturla nel ruolo di Primogeno Brujah e Sovrintendente di Fresno.
 
 Poco incline al comando e alla sedentarietà, Zeno delegherà la gestione di Fresno all'infante Paul.
-
-png-camarilla.html" class="button back">PNG Camarilla</a>

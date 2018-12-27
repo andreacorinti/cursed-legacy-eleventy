@@ -16,4 +16,3 @@ Genio delle scienze e occultista di prim'ordine, Lucinda è nota per aver terror
 
 Come il suo Sire e molti altri vampiri della città ha sempre professato una linea dura nei confronti degli anarchici, anche se più in termini machiavellici che propriamente ideologici. 
 
-png-camarilla.html" class="button back">PNG Camarilla</a>

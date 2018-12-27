@@ -52,4 +52,3 @@ Pochi anni dopo il tremere Cyrano, l'allora Principe di San Francisco, offrirà 
 
 I Corvi D'Avorio, incaricati d'indagare sugli strani sacrifici rituali che da qualche mese interessano la città californiana.
 
-png-camarilla.html" class="button back">PNG Camarilla</a>

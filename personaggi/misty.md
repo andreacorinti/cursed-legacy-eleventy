@@ -23,4 +23,3 @@ Nel 1957 il suo rifugio venne sgominato dal gruppo di Maya Anderson, che tra l'a
 Misty riuscì a fuggire, e da allora nella Camarilal non si hanno più sue notizie, con il Purple Onion normalmente gestito dai proprietari mortali.
 
 
-png-sabbat.html" class="button back">PNG Sabbat</a>

@@ -25,5 +25,3 @@ A causa di ciò, nel Gennaio del 1961 verrà ucciso dallo stesso Robert Morgan, 
 Era celebre per mantenere sempre la sua parola, sebbene generalmente questo implicasse qualche minaccia.
 
 Il suo quartier generale era il celebre casinò Flamingo, ma in generale possedeva molti altri casinò e rifugi nella strip di Las Vegas.
-
-png-indipendenti.html" class="button back">PNG Indipendenti</a>

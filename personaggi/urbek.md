@@ -17,5 +17,3 @@ Sconfitto dal gruppo di Maya, diverrà vittima di un legame di Sangue proprio co
 Allo stato attuale, mantiene un'occasionale e curiosa comunicazione epistolare con la brujah (curandosi bene di nascondere la sua vera identità dietro svariati pseudonimi per evitare ripercussioni da parte della Camarilla - o dello stesso Sabbat).
 
 È il responsabile dello stato mentale pietoso in cui versa La Vedova, da lui smembrata e vivisezionata nel '57.
-
-png-sabbat.html" class="button back">PNG Sabbat</a>

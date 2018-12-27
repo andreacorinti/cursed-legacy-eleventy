@@ -14,4 +14,3 @@ Nel 1957 ha preso parte alla spedizione di Maya sgominando l'Aryan Nations.
 
 In vita ha combattuto la Seconda Guerra Mondiale sul fronte giapponese assieme al fratello, ucciso dai giapponesi: da allora ha sviluppato un odio irrazionale nei confronti delle popolazioni asiatiche, in netto contrasto al suo carattere generalmente altruista e caritatevole. 
 
-png-camarilla.html" class="button back">PNG Camarilla</a>

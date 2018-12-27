@@ -20,6 +20,4 @@ Negli anni '30, con la legalizzazione del gioco d'azzardo, Las Vegas divenne l'e
 
 Yoska si scontrò ferocemente con i nuovi arrivati, che finirono per stipulare con lui una fragile tregua: l'arrivo di Giovanni e Setiti infatti indebolì nettamente l'influenza camarillica nella città, che in pochi anni sarebbe caduta nelle mani del Giovanni Rothstein.
 
-Dal canto suo, negli ultimi anni Yoska è riuscito a mantenersi estraneo ad ogni conflitto, garantendosi il monopolio sulle corse dei cavalli e il controllo dell'area orientale della città, oltre che diversi contatti con l'intero ceto proletario del Nevada.  
-
-png-indipendenti.html" class="button back">PNG Indipendenti</a> 
+Dal canto suo, negli ultimi anni Yoska è riuscito a mantenersi estraneo ad ogni conflitto, garantendosi il monopolio sulle corse dei cavalli e il controllo dell'area orientale della città, oltre che diversi contatti con l'intero ceto proletario del Nevada.

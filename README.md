@@ -2,9 +2,10 @@
 
 ## To do 
 
-- [] Responsive image per l'home page
+- [] discipline
 - [] Rivedere le mappe / iframe
 - [] link interni
+- [x] Responsive image per l'home page
 - [x] Footer
 - [x] aggiungere le varie giocate
 

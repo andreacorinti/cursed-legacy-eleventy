@@ -20,4 +20,3 @@ Non sembra provare grande stima per buona parte dei membri del suo Clan...ma in 
 
 Con la scomparsa di Zeno nel 1956, resta l'ultimo dei Corvi assieme a Jacques di cui si conosce la posizione.
 
-png-camarilla.html" class="button back">PNG Camarilla</a>

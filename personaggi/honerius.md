@@ -18,4 +18,3 @@ Vannevar, dal canto suo, sembra non poter fare a meno di lui:
 
 tra gli Anarchici a sud, il Sabbat a nord e i Giovanni a est Honerius rappresenta infatti l'unico "nemico" fedelissimo alla Camarilla e alle sue regole.
 
-png-camarilla.html" class="button back">PNG Camarilla</a>

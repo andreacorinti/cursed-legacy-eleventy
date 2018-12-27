@@ -13,4 +13,3 @@ Negli anni '50 ebbe una lunga storia con Paul De Rosa, bruscamente conclusa dopo
 
 Dalla relazione avrà un figlio, Raphael, sebbene Sarah non abbia mai rivelato nulla a Paul nulla riguardo la sua esistenza.
 
-png-mortali.html" class="button back">PNG Mortali</a> 

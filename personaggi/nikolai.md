@@ -18,4 +18,3 @@ Ad oggi, è il terzo vampiro più influente della città dopo il Principe e Seba
 
 Di lui in Elysium si sa solo che dopo la Rivoluzione Comunista del 1917 ha lasciato la Russia per gli Stati Uniti d'America, e che il suo odio per l'Unione Sovietica potrebbe essersi in parte riversato in una naturale antipatia per la causa degli Anarchici. 
 
-png-camarilla.html" class="button back">PNG Camarilla</a>
