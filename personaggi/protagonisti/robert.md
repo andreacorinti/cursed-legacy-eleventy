@@ -34,10 +34,8 @@ In vita vagava per gli Stati Uniti alla ricerca di risposte; militare veterano d
     <td>2</td>
   </tr>  
   <tr>
-    <td>Pala</td>
-    <td><p>Dissotterra tesori. Può essere usata come arma contundente:</p>
-    <p>Per colpire: <i>[Destrezza + Armi da Mischia]</i><br/>
-    Danni: <i>[Forza +2], contundenti</i></p></td>
+    <td>Cappello Texano</td>
+    <td>Da qualche parte ha un assortimento completo</td>
     <td>1</td>
   </tr>                          
 </table>
