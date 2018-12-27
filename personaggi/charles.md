@@ -1,5 +1,5 @@
 ---
-title: Charles
+title: Charles Johnson
 date: 1956-01-01
 immagine: img/charles.jpg
 tags:
@@ -7,4 +7,4 @@ tags:
 layout: layouts/post.njk
 ---
 
-Vicedirettore della CIA
+Vicedirettore della CIA, è il più vecchio amico di Thomas Rhodes

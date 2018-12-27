@@ -15,3 +15,5 @@ Originariamente un ghoul del potente giovanni Rothstein, nel 1947 verrà da lui 
 Sbruffone, vanesio e senza scrupoli, ha ucciso e reso zombie la povera Jenna, amica di Maya e per breve tempo amante di Peter De Rosa, suo vero bersaglio.
 
 Catturato dall'azione congiunta di Paul, Maya e Robert, verrà ucciso proprio da quest'ultimo.
+
+[Riportato al mondo come Wraith](/diario/1961-01-16/) dal suo sire Rothstein, verrà definitvamente eliminato in questa forma spettrale da Nikolai. 

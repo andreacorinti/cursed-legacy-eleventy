@@ -4,6 +4,7 @@ date: 1956-01-01
 tags:
   - anarchici
   - camarilla
+  - eventi
 layout: layouts/post.njk
 ---
 

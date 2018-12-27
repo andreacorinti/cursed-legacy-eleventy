@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-Principe di San Francisco dal 1877 al 1906, ottenne la carica spodestando il suo sire Montelaine e la complicità del clan Tremere.
+Principe di San Francisco dal 1877 al 1906, ottenne la carica spodestando il suo sire Montelaine con la complicità del clan Tremere.
 
 In questi anni abbraccia anche Honerius, che a quanto noto risulta essere il suo unico infante. 
 

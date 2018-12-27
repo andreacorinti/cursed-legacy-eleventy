@@ -23,4 +23,7 @@ Perseguitato dall'allora giovane Camarilla tanto quanto dal Sabbat, Sauriel si r
 
 Dopo che attorno al diciottesimo secolo gli Assamiti distrussero il suo "tempio", Sauriel ripartì per le americhe assieme alla sua infante e un folto gruppo di seguaci, formato tanto da ghoul umani quanto da cainiti sedotti dalle sue parole.
 
+![Sauriel](/img/sauriel-sacrificio.jpg)
+<small>Sauriel durante un sacrificio rituale</small>
+
 Nel 1906 trovò la morte ultima per mano della coterie dei Corvi d'Avorio.

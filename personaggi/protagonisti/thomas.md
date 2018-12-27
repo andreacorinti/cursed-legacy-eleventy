@@ -15,6 +15,25 @@ Appare come un uomo elegante, dai modi raffinati e galanti, capace di attirare l
 
 È un uomo egoista, cinico, che non vuole esser comandato da niente e nessuno, amante del potere e della bella vita. È in parte orgoglioso, un manipolatore capace di controllare le proprie emozioni, che non cede ai vizi o che si fa abbindolare facilmente. Dubita di tutti e pensa solo al proprio tornaconto.
 
+Il suo vero nome è **Theodore Ezra Roosevelt**, ed è l'ultimogenito dell'ex presidente degli Stati Uniti, Franklin Roosvelt. 
+
+Come a tutti i suoi fratelli, anche a lui fu dato un nome rilevante in ricordo del vecchio presidente americano. Ha sempre dimostrato grande interesse nel lavoro del padre tanto da seguirlo in ogni suo viaggio di lavoro. 
+
+Dopo aver frequentato i migliori istituti americani e aver acquisito una certa popolarità, Theodore appoggiò (come il padre) lo sviluppo e la costruzione delle bombe atomiche e i diritti dell'uomo e degli afroamericani (come la madre), pur non sentendoli parte della propria persona. 
+
+Dopo la morte del padre, fu l'ex vicepresidente Truman a prendere il comando. Essendo un grande amico di famiglia
+ed avendo un legame speciale col minore dei figli del defunto Roosvelt, Theodore finanziò la nuova organizzazione segreta del presidente (la CIA) di cui poi divenne supervisore.
+
+Verso la seconda metà degli anni '50 svolse qualche incarico in Europa, e in Italia scoprì i prodromi di [Gladio](https://it.wikipedia.org/wiki/Operazione_Gladio) che lo lasciarono perplesso: 
+
+nessuno sembrava saperne nulla nonostante ufficialmente fosse un'operazione gestita dalla "sua" CIA.
+
+Tornato negli USA, quando si recò alla sede della CIA per vederci chiaro uno dei membri dell'organizzazione sparò un colpo in sua direzione nel vano tentativo di ucciderlo, ma una sua collega (Sharon Williams) si frappose tra lui e il colpo, morendo tra le sue braccia.
+
+Numerose furono le minacce di morte ricevute in seguito a quell'evento (nonostante la cattura dell'aggressore), numerosi agenti uccisi al suo posto. Lo stesso vicedirettore, Charles Johnson, finì col spingerlo ad andarsene e a cambiare identità fin tanto che non avessero trovato il mandante di quegli attacchi. 
+
+Controvoglia ed irritato, gli fu data una nuova identità: scelse Thomas Rhodes, sia per potersi rivedere nel "T.R." del suo vecchio nome, sia per il significato che entrambi i cognomi condividono, ovvero "campo di rose".
+
 <h2>Inventario</h2>
 
 <table id="timeline">
