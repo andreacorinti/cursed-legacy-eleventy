@@ -398,3 +398,10 @@ footer {
   padding: 5px;
   margin-bottom: 1%;
 }
+
+/* Immagini generiche */
+
+img {
+  max-width: 100%;
+  height: auto;
+}
