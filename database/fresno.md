@@ -4,6 +4,7 @@ date: 1956-01-01
 tags:
   - luoghi
   - camarilla
+  - brujah
 layout: layouts/post.njk
 ---
 

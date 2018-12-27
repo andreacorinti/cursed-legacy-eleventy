@@ -4,6 +4,7 @@ date: 1956-01-01
 tags:
   - luoghi
   - anarchici
+  - gangrel
 layout: layouts/post.njk
 ---
 

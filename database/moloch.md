@@ -34,7 +34,9 @@ In netta contrapposizione al fratello Nergal e ai suoi seguaci (che adoravano le
 
 La [religione cartaginese](https://it.wikiversity.org/wiki/Religione_cartaginese), che prevedeva numerosi sacrifici umani (bambini compresi), fu l'esempio più concreto del credo di Moloch, che non a caso veniva adorato dai fenici col nome di Baal Hammon.
 
-Anche per questa "adorazione", molti sostengono che il "bene superiore" che giustificherebbe le malefatte dell'Ordine di Moloch non sia nient'altro che un pretesto, e che comunque la loro cura sia ben peggiore di qualsiasi malattia.
+Anche per questa sua vanità, molti interpretarono il "bene superiore" che avrebbe dovuto giustificare le malefatte di Moloch e del suo Ordine come un pretesto o un'ironica menzogna. 
+
+Altri ancora si limitano ad osservare che la "cura" di Moloch risulti più grave di qualsiasi malattia.
 
 ## Alias
 

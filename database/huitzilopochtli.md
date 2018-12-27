@@ -23,9 +23,14 @@ La notte seguente, quanto l'antidiluviano si era ormai allontanato, dal pozzo fu
 
 ## Huitzilopochtli
 
-Identificato dagli Aztechi come dio della guerra, fondò la città di Tenochtitlàn (odierna Città del Messico) che governò con diabolica tirannia.
+![Huitzilopochtli](https://vignette.wikia.nocookie.net/whitewolf/images/d/d1/Shaitan.jpg/revision/latest?cb=20140318053058)
+<small>L'aspetto di Nergal nelle Americhe</small>
 
-Il suo regno di terrore ebbe termine nel 1500 con l'arrivo dei conquistadores di Hernàn Cortés, aiutati dalla sua stessa "nipote" [Tlazolteotl](/personaggi/hortator). 
+Non è chiaro quando Nergal raggiunse le americhe (ci sono versioni contrastanti), ma fu qui che abbracciò il suo terrificante luogotenente [Camazotz](/database/camazotz).
+
+Identificato dagli Aztechi come dio della guerra, fondò la città di Tenochtitlàn (odierna Città del Messico) che governò con diabolica tirannia. 
+
+Il suo regno di terrore ebbe termine nel 1500 con l'arrivo dei conquistadores di Hernàn Cortés, aiutati dall'infante di Camazotz (e quindi "nipote" di Nergal) Tlazolteotl, più tardi nota come [Hortator](/personaggi/hortator). 
 
 Tlazolteotl interpretò erroneamente l'arrivo degli spagnoli come l'avvento di Moloch, fratello e antico rivale di Huitzilopochtli/Nergal.
 
