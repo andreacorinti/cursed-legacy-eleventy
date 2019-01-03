@@ -26,4 +26,6 @@ Dopo che attorno al diciottesimo secolo gli Assamiti distrussero il suo "tempio"
 ![Sauriel](/img/sauriel-sacrificio.jpg)
 <small>Sauriel durante un sacrificio rituale</small>
 
-Nel 1906 trovò la morte ultima per mano della coterie dei Corvi d'Avorio.
+Nel 1906 trovò la morte ultima per mano della coterie dei Corvi d'Avorio:
+
+[Terremoto del 1906](/database/terremoto-del-1906)
